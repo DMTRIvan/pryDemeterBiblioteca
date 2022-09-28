@@ -1,0 +1,24 @@
+D:\Escritorio\pryDemterBiblioteca\bin\Debug\pryDemterBiblioteca.exe.config
+D:\Escritorio\pryDemterBiblioteca\bin\Debug\pryDemterBiblioteca.exe
+D:\Escritorio\pryDemterBiblioteca\bin\Debug\pryDemterBiblioteca.pdb
+D:\Escritorio\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.csproj.AssemblyReference.cache
+D:\Escritorio\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.frmBiblioteca.resources
+D:\Escritorio\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.frmLibros.resources
+D:\Escritorio\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.Properties.Resources.resources
+D:\Escritorio\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.csproj.GenerateResource.cache
+D:\Escritorio\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.exe
+D:\Escritorio\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.pdb
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemterBiblioteca\bin\Debug\pryDemterBiblioteca.exe.config
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemterBiblioteca\bin\Debug\pryDemterBiblioteca.exe
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemterBiblioteca\bin\Debug\pryDemterBiblioteca.pdb
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.frmBiblioteca.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.frmLibros.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.Properties.Resources.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.csproj.GenerateResource.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.exe
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemterBiblioteca\obj\Debug\pryDemterBiblioteca.pdb
